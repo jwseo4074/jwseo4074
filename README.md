@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-	<a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/Github-#181717?style=flat-square&logo=Github&logoColor=white"/>	</a>
+	<a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=white"/>	</a>
 </div>
 
 <div align=center>
