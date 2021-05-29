@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I'm 24 , have a good day 
+## I'm 24 , have a good day 
 
 <p align="center">
 <a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
