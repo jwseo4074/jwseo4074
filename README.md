@@ -13,7 +13,7 @@ jwseo4074@pusan.ac.kr
 <a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/zwon___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>	</a> &nbsp </p>
   
- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+ <h3 align="center"><b>🛠 My Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
