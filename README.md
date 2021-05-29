@@ -3,8 +3,8 @@
 ### Can you come to my profile link?
 <a href="https://prfl.link/@zwon" target="_blank"><img src="https://img.shields.io/badge/prfl.link-FF7700?style=flat-square&logo=Piwigo&logoColor=white"/></a>
 
-### This is my Gmail
-jwseo4074@pusan.ac.kr
+#### This is my Gmail
+###### jwseo4074@pusan.ac.kr
 <br>
 <br>
 <br>
