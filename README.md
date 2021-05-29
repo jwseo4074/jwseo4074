@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### I'm 24 , have a good day 
+### Can you come to my profile link?
+<a href="https://prfl.link/@zwon" target="_blank"><img src="https://img.shields.io/badge/prfl.link-FF7700?style=flat-square&logo=Piwigo&logoColor=white"/></a> &nbsp
 
 <p align="center">
 <a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
@@ -13,6 +14,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Andorid Studio-3DDC84?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp </p>
 
