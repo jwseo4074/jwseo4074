@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<div align=center>
-	<a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>	</a>
-</div>
 
-<div align=center>
-	<a href="https://www.instagram.com/zwon___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>	</a>
-</div>
+<a href="https://github.com/jwseo4074/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>	</a>
+
+<a href="https://www.instagram.com/zwon___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>	</a>
+
+
+
+###
 
 <div align=center>
 	
