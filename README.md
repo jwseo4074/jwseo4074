@@ -5,7 +5,7 @@
   My Portfolio [zwon's PR page](https://zwon-prpage.herokuapp.com/)
 </p>
 
-<div style="text-align:center">
+<div align:"center">
   <p>서지원</p>
 </div>
 
