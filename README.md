@@ -4,3 +4,5 @@ A senior at PNU who likes to work out and self-development
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwseo4074)](https://github.com/깃허브아이디/github-readme-stats)
