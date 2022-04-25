@@ -1,9 +1,9 @@
 # Zwon 🤓
 
 <h1> 서지원 </h1>
-<div>
+<p>
   My Portfolio [zwon's PR page](https://zwon-prpage.herokuapp.com/)
-</div>
+</p>
 
 
 <!-- <div style="background-color:gray; display:flex; flex-direction:row;"> -->
