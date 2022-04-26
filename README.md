@@ -1,6 +1,6 @@
 # Seo jiwon 🤓
 
-<div>
+<p>
   
   [zwon's PR page](http://zwon-prpage.herokuapp.com/)
   
@@ -8,9 +8,11 @@
   
   [![jwseo4074](http://mazassumnida.wtf/api/mini/generate_badge?boj=jwseo4074)](https://solved.ac/jwseo4074)
   
-</div>
-[![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula))](https://github.com/jwseo4074/github-readme-stats)
+</p>
+<p>
+  [![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula))](https://github.com/jwseo4074/github-readme-stats)
 
+</p>
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwseo4074&layout=compact)](https://github.com/jwseo4074/github-readme-stats)
