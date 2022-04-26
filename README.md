@@ -1,7 +1,6 @@
 # Seo jiwon 🤓
 
 <div align="center">
-  
   <div align="left">
 
     [zwon's PR page](http://zwon-prpage.herokuapp.com/)
@@ -11,13 +10,11 @@
     [![jwseo4074](http://mazassumnida.wtf/api/mini/generate_badge?boj=jwseo4074)](https://solved.ac/jwseo4074)
 
   </div>
-  
   <div align="right">
 
     [![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula))](https://github.com/jwseo4074/github-readme-stats)
 
   </div>
-  
 </div>
 ---
 
