@@ -1,6 +1,6 @@
 # Seo jiwon 🤓
 
-<div align="left">
+<div>
   
   [zwon's PR page](http://zwon-prpage.herokuapp.com/)
   
@@ -10,7 +10,7 @@
   
 </div>
 
-<div align="right">
+<div>
   
   [![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula))](https://github.com/jwseo4074/github-readme-stats)
   
