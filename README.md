@@ -8,6 +8,7 @@
 [![jwseo4074](http://mazassumnida.wtf/api/mini/generate_badge?boj=jwseo4074)](https://solved.ac/jwseo4074)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwseo4074&layout=compact)](https://github.com/jwseo4074/github-readme-stats)  
-[![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula)](https://github.com/jwseo4074/github-readme-stats)
+
+  [![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula)](https://github.com/jwseo4074/github-readme-stats)
   
 </div>
