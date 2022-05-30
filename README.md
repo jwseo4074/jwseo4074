@@ -3,7 +3,7 @@
 
 <div align="center">
   
-< 나만의 PR page - [zwon's PR page](https://jwseo4074.github.io/PRpage/) >
+[zwon's PR page](https://jwseo4074.github.io/PRpage/)
  
 <hr/>
 
