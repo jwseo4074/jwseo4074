@@ -1,6 +1,5 @@
 # Ji-Won Seo
-### 좁밥처럼 굴지말자
-[zwon's PR page](https://jwseo4074.github.io/PRpage/)
+좁밥처럼 굴지말자 [zwon's PR page](https://jwseo4074.github.io/PRpage/)
 
 
 <!-- <div align="center">
