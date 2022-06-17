@@ -1,7 +1,9 @@
 # Ji-Won Seo
 ### 좁밥처럼 굴지말자
+[zwon's PR page](https://jwseo4074.github.io/PRpage/)
 
-<div align="center">
+
+<!-- <div align="center">
   
 [zwon's PR page](https://jwseo4074.github.io/PRpage/)
  
@@ -13,3 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwseo4074&layout=compact)](https://github.com/jwseo4074/github-readme-stats)[![zwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwseo4074&show_icons=true&theme=dracula)](https://github.com/jwseo4074/github-readme-stats)
   
 </div>
+ -->
