@@ -1,4 +1,4 @@
-# seojiwon
+# Ji-won seo
 ### 좁밥처럼 굴지말자
 
 <div align="center">
