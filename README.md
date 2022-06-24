@@ -1,5 +1,5 @@
 # Ji-Won Seo
-좁밥처럼 굴지말자 <br/>
+Front-End Developer <br/>
 [zwon's PR page](https://jwseo4074.github.io/PRpage/)
 
 
