@@ -1,6 +1,6 @@
 # Ji-Won Seo
 Front-End Developer <br/>
-[zwon's PR page](https://jwseo4074.github.io/PRpage/){:target="_blank"}
+[zwon's PR page](https://jwseo4074.github.io/PRpage/)
 
 
 <!-- <div align="center">
