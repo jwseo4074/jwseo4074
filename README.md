@@ -3,7 +3,8 @@ Front-End Developer <br/>
 [zwon's PR page](https://jwseo4074.github.io/PRpage/)
 
 <br>
-내가 왜 이렇게 짰는지 설득할 수 있어야 한다
+내가 코드를 왜 이렇게 짰는지 남에게 설득할 수 있어야 하고, 그 코드는 타당한 근거가 기반이 되어야 한다.
+
 
 <!-- <div align="center">
   
