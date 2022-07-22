@@ -2,6 +2,8 @@
 Front-End Developer <br/>
 [zwon's PR page](https://jwseo4074.github.io/PRpage/)
 
+<br>
+내가 왜 이렇게 짰는지 설득할 수 있어야 한다
 
 <!-- <div align="center">
   
